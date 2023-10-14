@@ -1,2 +1,4 @@
 # sanjeetrepo
-First repository
+Hi, This is sanjeet
+<br>
+Author : Sanjeet Samal
